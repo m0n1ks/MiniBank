@@ -11,4 +11,3 @@ public class MiniBankApplication {
 	}
 
 }
-git --version
